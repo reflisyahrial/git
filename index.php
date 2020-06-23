@@ -53,6 +53,6 @@ $query=mysqli_query($koneksi,"SELECT * FROM siswa ORDER BY Nip")or die('perintah
 </table>
 </body>
 <a style="color: white">
-&copy; Farhanms
+&copy; REFLI
 </a>
 </html>
